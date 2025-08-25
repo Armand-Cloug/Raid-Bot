@@ -1,0 +1,55 @@
+{
+  "events": [
+    {
+      "messageId": "1409661553984405576",
+      "channelId": "1409653884716187759",
+      "guildId": "949013414309666927",
+      "title": "BOS - Mardi",
+      "description": "Je fais un test",
+      "capacity": null,
+      "timestamp": "2025-08-30T18:23:00.000Z",
+      "createdAt": "2025-08-25T22:11:44.526Z",
+      "signups": {
+        "YES": [
+          "Cloug The Second",
+          "Cloug"
+        ],
+        "MAYBE": [],
+        "NO": []
+      },
+      "signupsIds": {
+        "YES": [],
+        "MAYBE": [],
+        "NO": []
+      },
+      "reminderEnabled": false,
+      "reminderSent": false
+    },
+    {
+      "messageId": "1409669246321037475",
+      "channelId": "1409653884716187759",
+      "guildId": "949013414309666927",
+      "title": "Test",
+      "description": "Akunamatata",
+      "capacity": null,
+      "timestamp": "2025-08-25T23:00:00.000Z",
+      "createdAt": "2025-08-25T22:42:18.519Z",
+      "signups": {
+        "YES": [
+          "Cloug"
+        ],
+        "MAYBE": [],
+        "NO": []
+      },
+      "signupsIds": {
+        "YES": [
+          "315417206773121024"
+        ],
+        "MAYBE": [],
+        "NO": []
+      },
+      "reminderEnabled": true,
+      "reminderSent": true
+    }
+  ]
+}
